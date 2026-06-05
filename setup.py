@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
-version = '5.2.0'
+version = '5.3.0'
 
 setup(
-    name='django-bower',
+    name='libs-django-bower-4',
     version=version,
     description="Integrate django with bower",
     long_description=open('README.rst').read(),
